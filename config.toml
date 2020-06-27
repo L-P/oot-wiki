@@ -1,0 +1,32 @@
+baseURL = "https://oot.wiki/"
+title = "oot.wiki"
+defaultContentLanguage = "en"
+theme = "book"
+enableGitInfo = true
+
+[markup]
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+    BookRepo = "https://github.com/L-P/oot-wiki"
+    BookEditPath = "edit/master/content"
+    BookDateFormat = "2006-01-02"
+    BookSearch = false
+    BookComments = false
+    BookMenuBundle = "/menu"
+    BookLogo = "/logo.svg"
+
+[privacy]
+    [privacy.disqus]
+        disable = true
+    [privacy.googleAnalytics]
+        disable = true
+    [privacy.instagram]
+        disable = true
+    [privacy.twitter]
+        disable = true
+    [privacy.vimeo]
+        simple = true
+    [privacy.youtube]
+        privacyEnhanced = true
