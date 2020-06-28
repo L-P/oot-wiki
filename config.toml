@@ -3,6 +3,7 @@ title = "oot.wiki"
 defaultContentLanguage = "en"
 theme = "book"
 enableGitInfo = true
+minify = true
 
 [markup]
 [markup.goldmark.renderer]

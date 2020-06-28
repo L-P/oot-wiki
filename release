@@ -1,0 +1,24 @@
+#!/usr/bin/env sh
+
+cd "$(dirname "$0")"
+
+set -eux
+
+commit="$(git rev-parse HEAD)"
+short="$(echo "$commit" | cut -c -8)"
+
+(
+cd public
+git fetch origin
+git reset --hard origin/master
+git clean -dfx
+)
+
+hugo
+
+(
+cd public
+git add -A .
+git commit -m "Release oot-wiki $short\\n\\n$commit"
+git push
+)
