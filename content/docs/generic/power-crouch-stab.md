@@ -11,24 +11,25 @@ description: "Explanations and setup for the Broken Power Crouch Stab glitch."
 A _Power Crouch Stab_ is an effortless glitch that allows to rapidly output
 specific damage amounts and types depending on which object and which attack
 were performed _last_ on the same scene.  
-If a scene transitions occurs, the damage is reset to 1. If you were to perform
-the glitch right after a scene transition it would take 4 hits of the _Biggoron
-Sword_ to kill a _Blue Tektite_.
+When a scene transitions occurs, the damage is reset to 1. If you were to
+perform the glitch right after a scene transition it would take 4 hits of the
+_Biggoron Sword_ to kill a _Blue Tektite_.
 
 ## Applications
-In practice, _Power Crouch Stabbing_ is often used in combination with _Deku
-Sticks_ as child, the _Biggoron Sword_, or the _Hammer_ which allows breaking
-multiple rocks and walls faster than by only using the _Hammer_.  
+In practice, _Power Crouch Stabbing_ is often used in conjunction with _Deku
+Sticks_ as child or the _Biggoron Sword_ as adult to kill bosses and
+mini-bosses. It is also used with the _Hammer_ which allows breaking rocks and
+walls faster.  
 Performing _Power Crouch Stabs_ using the damage of the _Master Sword_ or
-_Kokiri Sword_ jump-slash suboptimal but still outputs twice the damage of a
+_Kokiri Sword_ jump-slash is suboptimal but still outputs twice the damage of a
 regular slash at an increased speed.
 
 ## Setup
 1. Equip any shield
-2. Perform an powerful attack (ie. a jump-slash) with a sword or a _Deku
-   Stick_, or any attack with the _Hammer_.
-3. Draw your shield with `R`
-4. Attack with `B` while keeping your shield up.
+2. Perform a powerful attack (ie. a jump-slash) with a sword or a _Deku
+   Stick_, or any attack with the _Hammer_
+3. Draw your shield by keeping `R` pressed
+4. Attack with `B` while keeping your shield up
 
 ## Damage table
 <!-- The day goldmark supports rowspans, this can be rewritten in pure markdown. -->
