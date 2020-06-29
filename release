@@ -19,6 +19,8 @@ hugo
 (
 cd public
 git add -A .
-git commit -m "Release oot-wiki $short\\n\\n$commit"
-git push
+git commit -m "Release oot-wiki $short
+
+$commit"
+git push origin HEAD:master
 )
