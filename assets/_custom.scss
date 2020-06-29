@@ -6,6 +6,10 @@
     float: right;
 }
 
+.text-right {
+  text-align: right;
+}
+
 div.yt {
   width: 300px;
 }
@@ -16,4 +20,16 @@ figure {
     figcaption {
         font-style: italic;
     }
+}
+
+// Override table alternating rows, ugly with rowspans.
+.markdown table tr:nth-child(2n) {
+  background: inherit;
+}
+
+.fullwidth {
+  width: 100%;
+}
+table.fullwidth {
+  display: table;
 }

@@ -5,6 +5,8 @@ description: "Explanations and setup for the Broken Deku Stick glitch."
 ---
 
 # Broken _Deku Stick_
+<div class="yt float-right">{{<youtube "UAZW3MttnmI">}}</div>
+
 ## Description
 _Broken Deku Stick_ is a glitch that allows using a broken _Deku Stick_ after
 breaking it, meaning you can indefinitely and [rapidly]({{<relref
@@ -22,8 +24,6 @@ This glitch is useful for low%, randomizer, or any category that has to deal
 with tight resource management or lacks the _Kokiri Sword_.
 
 ## Setup
-<div class="yt float-right">{{<youtube "UAZW3MttnmI">}}</div>
-
 ### Backflip+Dryroll
 This is the easiest and most consistent method.
 
@@ -33,10 +33,10 @@ On a flat surface with an orthogonal wall:
    with it
 2. [Backflip]({{<relref "todo">}}), let go of your stick after the flip and
    do not touch it again until the setup is completed
-3. Draw and release your shield to ensure a forward roll on the next step
-4. [Dry Roll]({{<relref "todo">}}) with Z+A
-5. Draw your stick using your C-Buttons
-6. [Jump-Slash]({{<relref "todo">}}) with Z+A
+3. Draw and release your shield with `R` to ensure a forward roll on the next step
+4. [Dry Roll]({{<relref "todo">}}) with `Z`+`A`
+5. Draw your stick using your `C-Buttons`
+6. [Jump-Slash]({{<relref "todo">}}) with `Z`+`A`
 
 ### 45° angle
 On a flat surface with an orthogonal wall:
