@@ -9,7 +9,7 @@ tags: ["glitch"]
 ## Description
 _Ground Jumping_ is a technique that allows jumping vertically to climb up
 walls you're not supposed to be able to climb normally.  
-The glitch can be stored provided you don't perform any kind jump before using it.
+The glitch can be stored provided you don't perform any kind of jump before using it.
 
 ## Applications
 This glitch has many applications all over the game, it can allow adult Link to
