@@ -8,4 +8,6 @@ headless: true
   - [Power Crouch Stab]({{<relref "/docs/generic/power-crouch-stab">}})
 - Dungeons
   - [Deku Tree]({{<relref "/docs/deku-tree">}})
+    - [B1 Skip]({{<relref "/docs/deku-tree/b1-skip">}})
+    - [Gohma One Cycle]({{<relref "/docs/deku-tree/gohma">}})
 - [External Resources]({{<relref "/docs/resources">}})

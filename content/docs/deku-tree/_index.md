@@ -24,8 +24,8 @@ description: "Deku Tree overview"
 - B2
   - Fast 2 3 1
 - Gohma
+  - [One Cycle](./gohma)
   - Faster broken Deku Stick setup
-  - Gohma one-cycle
 
 <hr>
 {{<figure class="float-left" width="250"  link="./top.jpg"       src="./top.jpg"       caption="Top view">}}

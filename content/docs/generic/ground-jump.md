@@ -17,7 +17,7 @@ skip part of the _Sacred Forest Meadow_, child link to perform a [B1
 Skip]({{<ref "/docs/deku-tree/b1-skip">}}), and many more.
 
 ## Setup
-1. Drop a bomb at your feet with a `C-Button` then `A`, you must not
+1. Drop a bomb at your feet with your `C-Buttons` then `A`, you must not
    shield-drop it
 2. Take out your sword with `B` and your shield right after with `R`, keep
    your shield up

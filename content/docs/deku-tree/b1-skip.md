@@ -7,7 +7,7 @@ tags: ["child-only"]
 
 ## Description
 A _B1 Skip_ is any way to reach the higher platform in the basement of the _Deku
-Tree_ starting from the water.  
+Tree_ starting from the water as child.  
 
 ## Applications
 This skips four rooms in B1 including a _Slingshot_-locked room, allowing the
