@@ -18,7 +18,7 @@ _Deku Nut_.
 2. After _Gohma_ drops to the floor, go closer to it and throw a _Deku Nut_
    with your `C-Buttons`
 3. [Power Crouch Stab]({{<relref "/docs/generic/power-crouch-stab">}}) once
-4. While the animation of the previous attach is still playing, start spamming
+4. While the animation of the previous attack is still playing, start spamming
    your `C-Buttons` to throw another _Deku Nut_. If you are successful in doing
    so, _Gohma_ will make a sound.
 5. Power Crouch Stab twice more.
