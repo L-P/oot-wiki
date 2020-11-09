@@ -6,6 +6,10 @@ description: "Deku Tree overview"
 ---
 
 # Deku Tree
+- Optimal routing
+  - Full clear
+  - Go mode
+
 - 3F
   - Compass room
 - 2F

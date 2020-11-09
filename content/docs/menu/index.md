@@ -10,4 +10,6 @@ headless: true
   - [Deku Tree]({{<relref "/docs/deku-tree">}})
     - [B1 Skip]({{<relref "/docs/deku-tree/b1-skip">}})
     - [Gohma One Cycle]({{<relref "/docs/deku-tree/gohma">}})
+  - [Dodongo's Cavern]({{<relref "/docs/dodongos-cavern">}})
+    - [Light eyes with chus]({{<relref "/docs/dodongos-cavern/light-eyes-with-chus">}})
 - [External Resources]({{<relref "/docs/resources">}})
